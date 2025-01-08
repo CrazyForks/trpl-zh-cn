@@ -4,7 +4,7 @@
 
 ## 状态
 
-施工完毕。
+- 新增 ch17 async & await 施工中
 
 PS:
 
@@ -12,6 +12,10 @@ PS:
 * 每章翻译开头都带有官方链接和 commit hash，若发现与官方不一致，欢迎 Issue 或 PR :)
 
 [source]: https://github.com/rust-lang/book/tree/main/src
+
+## 校对
+
+部分翻译采用 ChatGPT 4o 进行翻译校对。提示词详见 [proofreading_prompt.md](proofreading_prompt.md)
 
 ## 静态页面构建与文档撰写
 
@@ -52,8 +56,7 @@ simple-http-server .\book\html\ -i
 
 [Rust 程序设计语言 简体中文版.pdf](https://kaisery.github.io/trpl-zh-cn/Rust%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%20%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
-- emoji 无法显示
-- ferris 无法显示
+- 由 [mdbook-typst-pdf](https://github.com/KaiserY/mdbook-typst-pdf) 生成，有任何问题欢迎 issue 或 PR
 
 ## GitBook
 
